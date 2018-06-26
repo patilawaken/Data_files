@@ -1,1 +1,1 @@
-[{"FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Roadways"},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}] 
+{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"}
