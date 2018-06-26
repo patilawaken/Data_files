@@ -1,0 +1,15 @@
+[	[{"From":"100915","FromType":4,"To":"PNQ","ToType":6},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}] ,
+	[{"From":"100915","FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Roadways"},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}],
+	[{"FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Roadways"},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}] ,
+	[{"From":"100915","To":"PNQ","ToType":6,"TransferMode":"Roadways"},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}] ,
+	[{"From":"100915","FromType":4,"ToType":6,"TransferMode":"Roadways"},{"From":"202628","FromType":4,"To":"3621","ToType":6,"TransferMode":"Waterways"},{"From":"TKR","FromType":6,"To":"31826","ToType":4,"TransferMode":"Railways"}] ,
+	[{"From":"100915","FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Roadways"}] ,
+	[{"From":"100915","FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Railways"}] ,
+	[{"From":"100915","FromType":4,"To":"PNQ","ToType":6,"TransferMode":"Waterways"}] ,
+	[{"From":"100915","FromType":6,"To":"PNQ","ToType":6,"TransferMode":"Roadways"}] ,
+	[{"From":"100915","FromType":4,"To":"PNQ","ToType":4,"TransferMode":"Roadways"}] ,
+	[{"From":100915,"FromType":4,"To":"PNQ","ToType":4,"TransferMode":"Roadways"}] ,
+	[{"From":100915,"FromType":5,"To":"PNQ","ToType":4,"TransferMode":"Roadways"}] ,
+	[{"From":100915,"FromType":5,"To":"PNQ","ToType":4,"TransferMode":"test"}] ,
+	[{}]
+]
